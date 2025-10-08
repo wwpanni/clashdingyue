@@ -12,6 +12,15 @@ https://clash.jjgo.top:44433/
 https://www.xmrth.lol/user
 # 红杏订阅链接
 https://hongxingyun.xyz/
+# 便宜不限时间节点
+https://www.gscloud.sbs
+
+# pc端软件 clash-party
+https://github.com/mihomo-party-org/clash-party
+
+# 安卓软件 Clash Meta for Android
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
 
 # 订阅转换服务搭建
 docker compose
@@ -19,9 +28,16 @@ docker compose
 version: '3.1' 
 services:
     "subconverter":
-        image: tindy2013/subconverter
+        image: tindy2013/subconverter:latest
         container_name: "subconverter"
         restart: always
         ports:
             - '25500:25500'
+
+    "subweb":
+        image: junjie11/subweb:latest
+        container_name: "subweb"
+        restart: always
+        ports:
+            - '8888:80'
 ```
