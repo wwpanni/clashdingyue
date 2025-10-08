@@ -12,7 +12,7 @@ https://clash.jjgo.top:44433/
 https://www.xmrth.lol/user
 # 红杏订阅链接
 https://hongxingyun.xyz/
-# 便宜不限时间节点
+# 便宜不限时间节点 光速机场
 https://www.gscloud.sbs
 
 # pc端软件 clash-party
