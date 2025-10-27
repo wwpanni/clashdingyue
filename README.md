@@ -9,7 +9,8 @@ https://git.wwok.top/https://raw.githubusercontent.com/wwpanni/clashdingyue/refs
 # 转换前端
 https://clash.jjgo.top:44433/
 # 69云订阅链接
-https://china.69yun69.com
+国内 https://china.69yun69.com
+国外 https://69yun69.com
 # XMRth订阅链接
 https://www.xmrth.lol/user
 
