@@ -8,12 +8,11 @@ https://git.wwok.top/https://raw.githubusercontent.com/wwpanni/clashdingyue/refs
 ```
 # 转换前端
 https://clash.jjgo.top:44433/
+# 69云订阅链接
+china.69yun69.com
 # XMRth订阅链接
 https://www.xmrth.lol/user
-# 红杏订阅链接
-https://hongxingyun.xyz/
-# 便宜不限时间节点 光速机场
-https://www.gscloud.sbs
+
 
 # pc端软件 clash-party
 https://github.com/mihomo-party-org/clash-party
