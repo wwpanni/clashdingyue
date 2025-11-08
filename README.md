@@ -1,13 +1,6 @@
-# 订阅转换服务地址
-```sh
-www.jjgo.top:25500/sub
-```
-# 模板地址
-```sh
-https://git.jjgo.top/https://raw.githubusercontent.com/wwpanni/clashdingyue/refs/heads/main/clash.ini
-```
+
 # 转换前端
-https://clash.jjgo.top:44433/
+https://clash.jjgo.top/
 # 69云订阅链接
 国内 https://china.69yun69.com
 国外 https://69yun69.com
