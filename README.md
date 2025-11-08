@@ -8,11 +8,9 @@ https://clash.jjgo.top/
 https://www.xmrth.lol/user
 
 
-# pc端软件 clash-party
-https://github.com/mihomo-party-org/clash-party
+# pc端软件安卓软件 FIClash
+[https://github.com/mihomo-party-org/clash-party](https://github.com/chen08209/FlClash)
 
-# 安卓软件 Clash Meta for Android
-https://github.com/MetaCubeX/ClashMetaForAndroid
 
 
 # 订阅转换服务搭建
