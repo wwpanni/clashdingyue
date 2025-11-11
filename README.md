@@ -7,7 +7,7 @@ https://clash.jjgo.top/
 # XMRth订阅链接
 https://www.xmrth.lol/user
 
-规则集选择地址
+# 规则集选择地址
 https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo/geosite 
 
 
