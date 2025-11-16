@@ -1,6 +1,6 @@
 # 转换模板
 ```sh
-https://raw.githubusercontent.com/wwpanni/clashdingyue/refs/heads/main/clash.ini
+https://git.jjgo.top/https://raw.githubusercontent.com/wwpanni/clashdingyue/refs/heads/main/clash.ini
 ```
 # 转换前端
 https://clash.jjgo.top/
