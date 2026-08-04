@@ -1,9 +1,9 @@
 # 转换模板
 ```sh
-https://git.jjgo.top/https://raw.githubusercontent.com/wwpanni/clashdingyue/refs/heads/main/clash.ini
+https://git.6666519.xyz/https://raw.githubusercontent.com/wwpanni/clashdingyue/refs/heads/main/clash.ini
 ```
 # 转换前端
-https://clash.jjgo.top/
+https://clash.6666519.xyz/
 # 69云订阅链接
 国内 https://china.69yun69.com
 国外 https://69yun69.com
